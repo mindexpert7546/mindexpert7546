@@ -1,8 +1,12 @@
-# 👋 Hëllö there! 
+
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kundan</h1>
+<h3 align="center">I love :blue_heart: to explore new fields & technology, It keeps me learn more and delve deep and acquire better insights of new trends & technologies to work on. </h3>
 
 I'm Kundan a CSE student of Mahendra Institute of technology tamilnadu 
 
-I love :blue_heart: to explore new fields & technology, It keeps me learn more and delve deep and acquire better insights of new trends & technologies to work on. 
+
 
 # 🧐 Few Things About me : 
 <li> 💻🖥️ Coder & Android Developer</li>
