@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/89348788/156224617-3618f4c6-ea02-4dde-bc87-92d835b617b1.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/89348788/158423226-4459fd3e-f10b-4847-b0a6-ea9ea4d4e856.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kundan</h1>
 <h3 align="center">I love :blue_heart: to explore new fields & technology, It keeps me learn more and delve deep and acquire better insights of new trends & technologies to work on. </h3>
