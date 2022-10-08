@@ -8,7 +8,7 @@ I'm Kundan a CSE student of Mahendra Institute of technology tamilnadu
 
 
 
-# 🧐 Few Things About me : 
+# 🧐 Few Things About me :  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 <li> 💻🖥️ Coder & Android Developer.</li>
 <li> 🔗 Play with Linux .</li>
 <li> 👀 I am very interested in Programming. </li>
