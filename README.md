@@ -75,6 +75,14 @@ I'm Kundan a CSE student of Mahendra Institute of technology tamilnadu
 
 </p>
   
+  
+<div align=center>
+
+![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
+  
+</div>
+  
+  
   <img src="https://github.com/Kavindu-Dilhara/Kavindu-Dilhara/blob/main/kavi.gif" width="300%">
   
   
