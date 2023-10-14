@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/89348788/188284498-10af1a38-440f-4c18-9c7e-fccc3f1b74ce.pn,g" height="150px"/></a>
+![MasterHead](https://i.pinimg.com/originals/4e/de/5a/4ede5a33c5490195b2b17466ad26d124.gif)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kundan</h1>
 <h3 align="center">I love :blue_heart: to explore new fields & technology, It keeps me learn more and delve deep and acquire better insights of new trends & technologies to work on. </h3>
