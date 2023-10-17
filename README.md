@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kundan</h1>
 <h3 align="center">I love :blue_heart: to explore new fields & technology, It keeps me learn more and delve deep and acquire better insights of new trends & technologies to work on. </h3>
 
-I'm Kundan a CSE student of Mahendra Institute of technology tamilnadu 
+[![An image of @mindexpert7546's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mindexpert7546)](https://holopin.io/@mindexpert7546)
 
 
 
