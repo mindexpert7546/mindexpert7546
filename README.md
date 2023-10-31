@@ -5,6 +5,8 @@
 <h3 align="center">I love :blue_heart: to explore new fields & technology, It keeps me learn more and delve deep and acquire better insights of new trends & technologies to work on. </h3>
 
 [![An image of @mindexpert7546's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mindexpert7546)](https://holopin.io/@mindexpert7546)
+## Hacktoberfest 2023 Reward Kit
+https://www.holopin.io/claim/rewardpack/cloeaza08188320fl3uqao6zku
 
 
 
